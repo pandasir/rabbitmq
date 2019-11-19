@@ -1,6 +1,6 @@
 {
     "name": "pandasir/rabbitmq",
-    "description": "",
+    "description": "This is package for RabbitMq",
     "authors": [
         {
             "name": "panda",
