@@ -1,6 +1,7 @@
 {
     "name": "pandasir/rabbitmq",
     "description": "This is package for RabbitMq",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "panda",
