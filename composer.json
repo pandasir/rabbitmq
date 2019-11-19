@@ -1,0 +1,19 @@
+{
+    "name": "pandasir/rabbitmq",
+    "description": "",
+    "authors": [
+        {
+            "name": "panda",
+            "email": "huanghao1054@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "pandaSir\\RabbitMQ\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "ext-amqp": "*"
+    }
+}
